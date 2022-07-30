@@ -1,0 +1,7 @@
+C:\Users\jsjos\OneDrive\Desktop\Basic_C#_Programs\Acme Accounting Systems\Acme Accounting Systems.cs\obj\Debug\Acme Accounting Systems.cs.csproj.CoreCompileInputs.cache
+C:\Users\jsjos\OneDrive\Desktop\Basic_C#_Programs\Acme Accounting Systems\Acme Accounting Systems.cs\obj\Debug\Acme Accounting Systems.cs.csproj.AssemblyReference.cache
+C:\Users\jsjos\OneDrive\Desktop\Basic_C#_Programs\Acme Accounting Systems\Acme Accounting Systems.cs\bin\Debug\Acme Accounting Systems.cs.exe.config
+C:\Users\jsjos\OneDrive\Desktop\Basic_C#_Programs\Acme Accounting Systems\Acme Accounting Systems.cs\bin\Debug\Acme Accounting Systems.cs.exe
+C:\Users\jsjos\OneDrive\Desktop\Basic_C#_Programs\Acme Accounting Systems\Acme Accounting Systems.cs\bin\Debug\Acme Accounting Systems.cs.pdb
+C:\Users\jsjos\OneDrive\Desktop\Basic_C#_Programs\Acme Accounting Systems\Acme Accounting Systems.cs\obj\Debug\Acme Accounting Systems.cs.exe
+C:\Users\jsjos\OneDrive\Desktop\Basic_C#_Programs\Acme Accounting Systems\Acme Accounting Systems.cs\obj\Debug\Acme Accounting Systems.cs.pdb
