@@ -1,0 +1,7 @@
+C:\Users\jsjos\Basic_C#_Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\Math Operation Assignment.exe.config
+C:\Users\jsjos\Basic_C#_Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\Math Operation Assignment.exe
+C:\Users\jsjos\Basic_C#_Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\Math Operation Assignment.pdb
+C:\Users\jsjos\Basic_C#_Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\Math Operation Assignment.csproj.AssemblyReference.cache
+C:\Users\jsjos\Basic_C#_Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\Math Operation Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jsjos\Basic_C#_Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\Math Operation Assignment.exe
+C:\Users\jsjos\Basic_C#_Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\Math Operation Assignment.pdb
