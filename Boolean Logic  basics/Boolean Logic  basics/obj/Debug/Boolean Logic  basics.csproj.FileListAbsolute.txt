@@ -1,0 +1,7 @@
+C:\Users\jsjos\Basic_C#_Projects\Boolean Logic  basics\Boolean Logic  basics\bin\Debug\Boolean Logic  basics.exe.config
+C:\Users\jsjos\Basic_C#_Projects\Boolean Logic  basics\Boolean Logic  basics\bin\Debug\Boolean Logic  basics.exe
+C:\Users\jsjos\Basic_C#_Projects\Boolean Logic  basics\Boolean Logic  basics\bin\Debug\Boolean Logic  basics.pdb
+C:\Users\jsjos\Basic_C#_Projects\Boolean Logic  basics\Boolean Logic  basics\obj\Debug\Boolean Logic  basics.csproj.AssemblyReference.cache
+C:\Users\jsjos\Basic_C#_Projects\Boolean Logic  basics\Boolean Logic  basics\obj\Debug\Boolean Logic  basics.csproj.CoreCompileInputs.cache
+C:\Users\jsjos\Basic_C#_Projects\Boolean Logic  basics\Boolean Logic  basics\obj\Debug\Boolean Logic  basics.exe
+C:\Users\jsjos\Basic_C#_Projects\Boolean Logic  basics\Boolean Logic  basics\obj\Debug\Boolean Logic  basics.pdb

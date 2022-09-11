@@ -1,0 +1,7 @@
+C:\Users\jsjos\Basic_C#_Projects\Car Insurance Approval\Car Insurance Approval\bin\Debug\Car Insurance Approval.exe.config
+C:\Users\jsjos\Basic_C#_Projects\Car Insurance Approval\Car Insurance Approval\bin\Debug\Car Insurance Approval.exe
+C:\Users\jsjos\Basic_C#_Projects\Car Insurance Approval\Car Insurance Approval\bin\Debug\Car Insurance Approval.pdb
+C:\Users\jsjos\Basic_C#_Projects\Car Insurance Approval\Car Insurance Approval\obj\Debug\Car Insurance Approval.csproj.AssemblyReference.cache
+C:\Users\jsjos\Basic_C#_Projects\Car Insurance Approval\Car Insurance Approval\obj\Debug\Car Insurance Approval.csproj.CoreCompileInputs.cache
+C:\Users\jsjos\Basic_C#_Projects\Car Insurance Approval\Car Insurance Approval\obj\Debug\Car Insurance Approval.exe
+C:\Users\jsjos\Basic_C#_Projects\Car Insurance Approval\Car Insurance Approval\obj\Debug\Car Insurance Approval.pdb
