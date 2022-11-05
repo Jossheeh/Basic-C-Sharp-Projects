@@ -1,0 +1,8 @@
+C:\Users\jsjos\source\repos\Price-Quote\Price-Quote\obj\Debug\Price-Quote.csproj.AssemblyReference.cache
+C:\Users\jsjos\source\repos\Price-Quote\Price-Quote\obj\Debug\Price-Quote.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsjos\source\repos\Price-Quote\Price-Quote\obj\Debug\Price-Quote.csproj.CoreCompileInputs.cache
+C:\Users\jsjos\source\repos\Price-Quote\Price-Quote\bin\Debug\Price-Quote.exe.config
+C:\Users\jsjos\source\repos\Price-Quote\Price-Quote\bin\Debug\Price-Quote.exe
+C:\Users\jsjos\source\repos\Price-Quote\Price-Quote\bin\Debug\Price-Quote.pdb
+C:\Users\jsjos\source\repos\Price-Quote\Price-Quote\obj\Debug\Price-Quote.exe
+C:\Users\jsjos\source\repos\Price-Quote\Price-Quote\obj\Debug\Price-Quote.pdb
