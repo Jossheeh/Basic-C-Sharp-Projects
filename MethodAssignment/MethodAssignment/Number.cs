@@ -16,6 +16,7 @@ namespace MethodAssignment
             userInput = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("You picked {0} ", userInput);
             Console.ReadLine();
+            Console.WriteLine("Press return to continue");
             Console.WriteLine("Your number multiplied by 50 is: " + userInput * 50);
             Console.ReadLine();
             int total = userInput + 50;
