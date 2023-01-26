@@ -121,7 +121,7 @@ class Program
         for (int i = 0; i < classlist.Count; i++)
         {
             if (classlist[i] == student)
-           {
+            {
                 matchExists1 = true;
                 Console.WriteLine(classlist.IndexOf(student));
             }
@@ -129,7 +129,8 @@ class Program
 
         if (matchExists1 == false)
         {
-            Console.WriteLine("Sorry, this is not in the list");
+            Console.Write(classlist.Contains(student));
+            Console.WriteLine(" Sorry, this is not in the list");
         }
 
 
@@ -137,31 +138,27 @@ class Program
 
         List<string> playerlist = new List<string>()
         { "Josh", "Josh", "Mark", "Sarah", "Billy" };
-        List<string> playerlist_2 = new List<string>();
+        List<string> playerlist2 = new List<string>();
+        
 
-        for (int i = 0; i < playerlist.Count; i++)
+
+        foreach (string playerName in playerlist)
         {
-            for (int j = i + 1; j < playerlist.Count; j++)
+            if (!playerlist2.Contains(playerName))
             {
-                if (playerlist[j] == playerlist[i])
-                {
-
-                    if (!playerlist_2.Contains(playerlist[i]))
-                    {
-                        playerlist_2.Add(playerlist[i]);
-                    }
-
-                }
+                playerlist2.Add(playerName);
+                    Console.WriteLine(playerName + " has not appeared"); }
+           else if (playerlist2.Contains(playerName))
+            {
+                Console.WriteLine(playerName + " has already appeared");
             }
+
+          
         }
 
-        foreach (var N in playerlist_2)
-        {
-            Console.WriteLine(N);
+Console.ReadLine();
 
-            Console.ReadLine();
-
-        }
+    
     }
 }
     
