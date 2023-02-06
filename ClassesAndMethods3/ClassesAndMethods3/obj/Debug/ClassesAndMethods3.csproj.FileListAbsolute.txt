@@ -1,0 +1,8 @@
+C:\Users\jsjos\source\repos\ClassesAndMethods3\ClassesAndMethods3\obj\Debug\ClassesAndMethods3.csproj.AssemblyReference.cache
+C:\Users\jsjos\source\repos\ClassesAndMethods3\ClassesAndMethods3\obj\Debug\ClassesAndMethods3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsjos\source\repos\ClassesAndMethods3\ClassesAndMethods3\obj\Debug\ClassesAndMethods3.csproj.CoreCompileInputs.cache
+C:\Users\jsjos\source\repos\ClassesAndMethods3\ClassesAndMethods3\bin\Debug\ClassesAndMethods3.exe.config
+C:\Users\jsjos\source\repos\ClassesAndMethods3\ClassesAndMethods3\bin\Debug\ClassesAndMethods3.exe
+C:\Users\jsjos\source\repos\ClassesAndMethods3\ClassesAndMethods3\bin\Debug\ClassesAndMethods3.pdb
+C:\Users\jsjos\source\repos\ClassesAndMethods3\ClassesAndMethods3\obj\Debug\ClassesAndMethods3.exe
+C:\Users\jsjos\source\repos\ClassesAndMethods3\ClassesAndMethods3\obj\Debug\ClassesAndMethods3.pdb
