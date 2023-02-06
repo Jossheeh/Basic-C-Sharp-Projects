@@ -1,0 +1,8 @@
+C:\Users\jsjos\source\repos\Classes and Methods Assignment\Classes and Methods Assignment\obj\Debug\Classes and Methods Assignment.csproj.AssemblyReference.cache
+C:\Users\jsjos\source\repos\Classes and Methods Assignment\Classes and Methods Assignment\obj\Debug\Classes and Methods Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsjos\source\repos\Classes and Methods Assignment\Classes and Methods Assignment\obj\Debug\Classes and Methods Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jsjos\source\repos\Classes and Methods Assignment\Classes and Methods Assignment\bin\Debug\Classes and Methods Assignment.exe.config
+C:\Users\jsjos\source\repos\Classes and Methods Assignment\Classes and Methods Assignment\bin\Debug\Classes and Methods Assignment.exe
+C:\Users\jsjos\source\repos\Classes and Methods Assignment\Classes and Methods Assignment\bin\Debug\Classes and Methods Assignment.pdb
+C:\Users\jsjos\source\repos\Classes and Methods Assignment\Classes and Methods Assignment\obj\Debug\Classes and Methods Assignment.exe
+C:\Users\jsjos\source\repos\Classes and Methods Assignment\Classes and Methods Assignment\obj\Debug\Classes and Methods Assignment.pdb
