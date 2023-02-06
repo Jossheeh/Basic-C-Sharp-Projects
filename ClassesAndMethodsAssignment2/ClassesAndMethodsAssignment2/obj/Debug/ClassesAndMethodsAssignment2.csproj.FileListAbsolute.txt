@@ -1,0 +1,8 @@
+C:\Users\jsjos\source\repos\ClassesAndMethodsAssignment2\ClassesAndMethodsAssignment2\bin\Debug\ClassesAndMethodsAssignment2.exe.config
+C:\Users\jsjos\source\repos\ClassesAndMethodsAssignment2\ClassesAndMethodsAssignment2\bin\Debug\ClassesAndMethodsAssignment2.exe
+C:\Users\jsjos\source\repos\ClassesAndMethodsAssignment2\ClassesAndMethodsAssignment2\bin\Debug\ClassesAndMethodsAssignment2.pdb
+C:\Users\jsjos\source\repos\ClassesAndMethodsAssignment2\ClassesAndMethodsAssignment2\obj\Debug\ClassesAndMethodsAssignment2.csproj.AssemblyReference.cache
+C:\Users\jsjos\source\repos\ClassesAndMethodsAssignment2\ClassesAndMethodsAssignment2\obj\Debug\ClassesAndMethodsAssignment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsjos\source\repos\ClassesAndMethodsAssignment2\ClassesAndMethodsAssignment2\obj\Debug\ClassesAndMethodsAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\jsjos\source\repos\ClassesAndMethodsAssignment2\ClassesAndMethodsAssignment2\obj\Debug\ClassesAndMethodsAssignment2.exe
+C:\Users\jsjos\source\repos\ClassesAndMethodsAssignment2\ClassesAndMethodsAssignment2\obj\Debug\ClassesAndMethodsAssignment2.pdb
