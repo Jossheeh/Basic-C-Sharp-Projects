@@ -17,8 +17,7 @@ namespace Classes_and_Methods_Assignment
         
 
             Number n = new Number();
-            n.Math1(a);
-            n.maths(b);
+            n.Math1(a, b);
 
             Console.ReadLine();
 
