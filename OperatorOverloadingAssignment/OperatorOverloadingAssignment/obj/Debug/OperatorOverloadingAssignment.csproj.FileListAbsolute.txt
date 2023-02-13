@@ -1,0 +1,8 @@
+C:\Users\jsjos\source\repos\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\OperatorOverloadingAssignment.exe.config
+C:\Users\jsjos\source\repos\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\OperatorOverloadingAssignment.exe
+C:\Users\jsjos\source\repos\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\OperatorOverloadingAssignment.pdb
+C:\Users\jsjos\source\repos\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.csproj.AssemblyReference.cache
+C:\Users\jsjos\source\repos\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsjos\source\repos\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jsjos\source\repos\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.exe
+C:\Users\jsjos\source\repos\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.pdb
