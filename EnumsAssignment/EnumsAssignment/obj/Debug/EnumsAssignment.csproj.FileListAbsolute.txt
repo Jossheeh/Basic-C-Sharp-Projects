@@ -1,0 +1,8 @@
+C:\Users\jsjos\source\repos\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.csproj.AssemblyReference.cache
+C:\Users\jsjos\source\repos\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsjos\source\repos\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jsjos\source\repos\EnumsAssignment\EnumsAssignment\bin\Debug\EnumsAssignment.exe.config
+C:\Users\jsjos\source\repos\EnumsAssignment\EnumsAssignment\bin\Debug\EnumsAssignment.exe
+C:\Users\jsjos\source\repos\EnumsAssignment\EnumsAssignment\bin\Debug\EnumsAssignment.pdb
+C:\Users\jsjos\source\repos\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.exe
+C:\Users\jsjos\source\repos\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.pdb
