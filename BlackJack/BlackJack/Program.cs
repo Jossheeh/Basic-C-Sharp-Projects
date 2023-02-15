@@ -3,13 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
+using Casino;
+using Casino.BlackJack;
 
 namespace BlackJack
 {
-    internal class Program
+     class Program
     {
         static void Main(string[] args)
         {
+           
 
             Console.WriteLine("Welcome to Josh's Casino. Let's start by telling me your name. ");
             string playerName = Console.ReadLine();
