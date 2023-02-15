@@ -1,0 +1,8 @@
+C:\Users\jsjos\source\repos\File IO Assignment\File IO Assignment\bin\Debug\File IO Assignment.exe.config
+C:\Users\jsjos\source\repos\File IO Assignment\File IO Assignment\bin\Debug\File IO Assignment.exe
+C:\Users\jsjos\source\repos\File IO Assignment\File IO Assignment\bin\Debug\File IO Assignment.pdb
+C:\Users\jsjos\source\repos\File IO Assignment\File IO Assignment\obj\Debug\File IO Assignment.csproj.AssemblyReference.cache
+C:\Users\jsjos\source\repos\File IO Assignment\File IO Assignment\obj\Debug\File IO Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsjos\source\repos\File IO Assignment\File IO Assignment\obj\Debug\File IO Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jsjos\source\repos\File IO Assignment\File IO Assignment\obj\Debug\File IO Assignment.exe
+C:\Users\jsjos\source\repos\File IO Assignment\File IO Assignment\obj\Debug\File IO Assignment.pdb
