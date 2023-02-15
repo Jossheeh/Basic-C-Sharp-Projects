@@ -1,0 +1,8 @@
+C:\Users\jsjos\source\repos\Additional Features Assignment\Additional Features Assignment\bin\Debug\Additional Features Assignment.exe.config
+C:\Users\jsjos\source\repos\Additional Features Assignment\Additional Features Assignment\bin\Debug\Additional Features Assignment.exe
+C:\Users\jsjos\source\repos\Additional Features Assignment\Additional Features Assignment\bin\Debug\Additional Features Assignment.pdb
+C:\Users\jsjos\source\repos\Additional Features Assignment\Additional Features Assignment\obj\Debug\Additional Features Assignment.csproj.AssemblyReference.cache
+C:\Users\jsjos\source\repos\Additional Features Assignment\Additional Features Assignment\obj\Debug\Additional Features Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsjos\source\repos\Additional Features Assignment\Additional Features Assignment\obj\Debug\Additional Features Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jsjos\source\repos\Additional Features Assignment\Additional Features Assignment\obj\Debug\Additional Features Assignment.exe
+C:\Users\jsjos\source\repos\Additional Features Assignment\Additional Features Assignment\obj\Debug\Additional Features Assignment.pdb
