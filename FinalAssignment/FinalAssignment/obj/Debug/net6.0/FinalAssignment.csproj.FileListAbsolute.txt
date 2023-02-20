@@ -1,0 +1,5 @@
+C:\Users\jsjos\source\repos\FinalAssignment\FinalAssignment\obj\Debug\net6.0\FinalAssignment.csproj.AssemblyReference.cache
+C:\Users\jsjos\source\repos\FinalAssignment\FinalAssignment\obj\Debug\net6.0\FinalAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsjos\source\repos\FinalAssignment\FinalAssignment\obj\Debug\net6.0\FinalAssignment.AssemblyInfoInputs.cache
+C:\Users\jsjos\source\repos\FinalAssignment\FinalAssignment\obj\Debug\net6.0\FinalAssignment.AssemblyInfo.cs
+C:\Users\jsjos\source\repos\FinalAssignment\FinalAssignment\obj\Debug\net6.0\FinalAssignment.csproj.CoreCompileInputs.cache
